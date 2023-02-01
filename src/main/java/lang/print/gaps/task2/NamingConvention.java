@@ -6,12 +6,12 @@ public class NamingConvention {
         int variableOne = 1;
         int variableTwo = 2;
         int variableThree = 3;
-        final int VARIABLE_FOUR = 4;
-        final int VARIABLE_FIVE = 5;
+        int varFour = 4;
+        int varFive = 5;
         int variableSix = 6;
         int variableSeven = 7;
         int variableEight = 8;
 
-        System.out.println(VARIABLE_FIVE +  VARIABLE_FOUR);
+
     }
 }
