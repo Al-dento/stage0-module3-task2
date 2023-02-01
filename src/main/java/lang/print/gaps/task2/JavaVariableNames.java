@@ -11,5 +11,6 @@ public class JavaVariableNames {
         int sharp = 100000;
         int star = 1000000;
         int varName = 1000000;
+        System.out.println(morrow + "" + money + "" + hundred + "" + back + "" + underscore + "" + sharp + "" + star + "" +  varName);
     }
 }
